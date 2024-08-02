@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "email": "manager@gmail.com",
+      "password": "1",
+      "role": "manager"
+    },
+    {
+      "id": "2",
+      "name": "Nguyễn Văn B",
+      "email": "guest@gmail.com",
+      "password": "1",
+      "role": "guest"
+    },
+    {
+      "id": "4",
+      "name": "uydev",
+      "email": "hehe@gmail.com",
+      "password": "123456",
+      "role": "guest"
+    },
+    {
+      "id": "5",
+      "name": "213",
+      "email": "uydev23@gmail.com",
+      "password": "123456",
+      "role": "guest"
+    },
+    {
+      "id": "6",
+      "name": "minh duc",
+      "email": "tranminhqthp@gmail.com",
+      "password": "123",
+      "role": "guest"
+    }
+  ],
+  "courts": [
+    {
+      "id": "3",
+      "name": "Sân BOP Phạm Hồng Thái",
+      "location": "01 Nguyễn Văn Ngọc, phường Cống Vị, quận Ba Đình, Hà Nội",
+      "courts": "4",
+      "price": "120.000đ/h",
+      "image": "https://babolat.com.vn/wp-content/uploads/2023/11/san-bod-pham-hong-thai.jpg",
+      "availableTimes": [
+        "18:00 – 22:00"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Sân cầu lông 365",
+      "location": "120 Đốc Ngữ, Ba Đình, Hà Nội",
+      "courts": "4",
+      "price": "100.000đ/h",
+      "image": "https://babolat.com.vn/wp-content/uploads/2023/11/san-cau-long-ha-noi-354.jpg",
+      "availableTimes": [
+        "05:00 – 22:00"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Sân 221 Kim Ngưu",
+      "location": "221 Kim Ngưu, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "courts": "5",
+      "price": "80.000đ/h",
+      "image": "https://cdn.shopvnb.com/uploads/images/tin_tuc/san-cau-long-cau-giay-1-1687825751.webp",
+      "availableTimes": [
+        "06:00 – 23:00"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Sân 521 Minh Khai",
+      "location": "521 P. Minh Khai, Vĩnh Phú, Hai Bà Trưng",
+      "courts": "5",
+      "price": "60.000đ/h",
+      "image": "https://babolat.com.vn/wp-content/uploads/2023/11/san-cong-vien-thong-nhat.jpg",
+      "availableTimes": [
+        "06:00 – 23:00"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Sân cầu lông 115 Quán Thánh",
+      "location": "115 Quán Thánh, Quận Ba Đình, Hà Nội",
+      "courts": "6",
+      "price": "100.000đ/h",
+      "image": "https://babolat.com.vn/wp-content/uploads/2023/11/san-cau-long-quang-trung.jpg",
+      "availableTimes": [
+        "18:00 - 23:00"
+      ]
+    }
+  ]
+}
